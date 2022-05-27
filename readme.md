@@ -1,7 +1,7 @@
-<p>Título: Bloqueio de cookies</p>
+# Block of cookies
 
-<p>Autor: Leonardo Araújo</p>
+*Powered by Leonardo Araújo*
 
-<p>Script em JS para bloqueio de cookies de dominios.
-Basicamente ele recebe uma "Blacklist" com os dominios nos quais 
-ele tem que bloquear os cookies.</p>
+JS script to block domain cookies.
+Basically it receives a "Blacklist" with the domains in which
+he has to block cookies.
